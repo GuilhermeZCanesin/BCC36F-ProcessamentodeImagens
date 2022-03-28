@@ -12,4 +12,3 @@ Repositório voltado para o desenvolvimento do projeto da disciplina BCC36F - Pr
 - [ ] Segunda Prova (P2): 20 de junho de 2022 das 15:50 às 17:30h
 - [ ] Entrega do Projeto Avaliativo Prático (PROJ): 29 de junho de 2022 das 15:50 às 17:30h
 - [ ] Prova de Recuperação (R): 4 de julho de 2022 das 15:50 às 17:30h
-
