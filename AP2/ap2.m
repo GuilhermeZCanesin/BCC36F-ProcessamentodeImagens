@@ -27,7 +27,7 @@ for var = 1:256
   
 endfor
 
-plot(map);
+plot(map)
 
 for i = 1:888
   for j = 1:888
