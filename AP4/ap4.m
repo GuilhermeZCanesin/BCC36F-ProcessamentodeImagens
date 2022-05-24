@@ -7,8 +7,8 @@ mn=9;
 filtro = zeros(mn,mn, "double")+1;
 
 for i=1:mn
-  for j=1:mn
-          filtro(i,j) = filtro(i,j)/mn*mn;
+ for j=1:mn
+          filtro(i,j) = filtro(i,j)/(mn*mn);
   endfor
 endfor
 
